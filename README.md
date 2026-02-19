@@ -86,7 +86,7 @@ duck.exe --version
 
 | DuckScript  | Python       | Descripción              |
 |-------------|--------------|--------------------------|
-| `pr()`      | `print()`    | Imprimir en consola      |
+| `prn()`      | `print()`    | Imprimir en consola      |
 | `inp()`     | `input()`    | Leer entrada del usuario |
 | `qk()`      | *(especial)* | Print con emoji 🦆       |
 | `iff`       | `if`         | Condicional              |
