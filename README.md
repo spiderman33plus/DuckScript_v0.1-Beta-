@@ -313,12 +313,7 @@ Código .duck
 
 ---
 
-## 📄 Licencia
 
-DuckScript v0.1 (Beta) — Open Source  
-Creado con 🦆 y mucho amor
-
----
 
 *"Code like a duck: calm on the surface, paddling like crazy underneath."*
 
